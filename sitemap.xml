@@ -1,8 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://Rashmiyadav.github.io/blog/2013/06/07/3-d-art/</loc>
+        <lastmod>2013-06-07T16:42:19+04:30</lastmod>
+    </url>
+    <url>
         <loc>http://Rashmiyadav.github.io/blog/archives/</loc>
-        <lastmod>2013-06-07T16:03:35+04:30</lastmod>
+        <lastmod>2013-06-07T16:42:19+04:30</lastmod>
     </url>
     <url>
         <loc>http://Rashmiyadav.github.io/robots.txt</loc>
@@ -10,6 +14,6 @@
     </url>
     <url>
         <loc>http://Rashmiyadav.github.io/</loc>
-        <lastmod>2013-06-07T16:03:35+04:30</lastmod>
+        <lastmod>2013-06-07T16:42:19+04:30</lastmod>
     </url>
 </urlset>
