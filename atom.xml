@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[3D ART]]></title>
   <link href="http://Rashmiyadav.github.io/atom.xml" rel="self"/>
   <link href="http://Rashmiyadav.github.io/"/>
-  <updated>2013-06-07T16:50:47+04:30</updated>
+  <updated>2013-06-07T16:53:00+04:30</updated>
   <id>http://Rashmiyadav.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
