@@ -11,4 +11,4 @@ categories:
 
 Kurt Wenner:
 
-{% http://weburbanist.com/wp-content/uploads/2008/06/wenner1.jpg %}
+{% img center http://weburbanist.com/wp-content/uploads/2008/06/wenner1.jpg %}
