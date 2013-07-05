@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[3D ART]]></title>
+  <title><![CDATA[THE TRAVELLING MINDS]]></title>
   <link href="http://Rashmiyadav.github.io/atom.xml" rel="self"/>
   <link href="http://Rashmiyadav.github.io/"/>
-  <updated>2013-06-21T15:31:14+04:30</updated>
+  <updated>2013-07-05T10:05:32+04:30</updated>
   <id>http://Rashmiyadav.github.io/</id>
   <author>
-    <name><![CDATA[Rashmi]]></name>
+    <name><![CDATA[Rashmi AND Veer]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
